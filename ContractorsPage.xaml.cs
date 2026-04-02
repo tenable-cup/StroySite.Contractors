@@ -1,4 +1,8 @@
-﻿using Microsoft.EntityFrameworkCore;
+﻿
+
+// Учебная практика УП.03.01. Ветка dev. Изменения для демонстрации ветвления.
+
+using Microsoft.EntityFrameworkCore;
 using StroySite.WPF.Models;
 using System.Diagnostics.Contracts;
 using System.Linq;
