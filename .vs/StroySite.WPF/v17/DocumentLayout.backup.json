@@ -1,0 +1,147 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\\u043F\u0440\u043E\u0438\u0437\u0432\u043E\u0434\u0441\u0442\u0432\u0435\u043D\u043D\u0430\u044F \u043F\u0440\u0430\u043A\u0442\u0438\u043A\u0430\\\u043F\u0440\u0430\u043A\u0442\u0438\u043A\u0430 \u043F\u043E \u0431\u0443\u0434\u0438\u043B\u043E\u0432\u0443\\StroySite.WPF\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{DA778BAD-9A73-4E80-9609-919202D8267F}|StroySite.WPF.csproj|c:\\\u043F\u0440\u043E\u0438\u0437\u0432\u043E\u0434\u0441\u0442\u0432\u0435\u043D\u043D\u0430\u044F \u043F\u0440\u0430\u043A\u0442\u0438\u043A\u0430\\\u043F\u0440\u0430\u043A\u0442\u0438\u043A\u0430 \u043F\u043E \u0431\u0443\u0434\u0438\u043B\u043E\u0432\u0443\\stroysite.wpf\\mainwindow.xaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{DA778BAD-9A73-4E80-9609-919202D8267F}|StroySite.WPF.csproj|solutionrelative:mainwindow.xaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{DA778BAD-9A73-4E80-9609-919202D8267F}|StroySite.WPF.csproj|C:\\\u043F\u0440\u043E\u0438\u0437\u0432\u043E\u0434\u0441\u0442\u0432\u0435\u043D\u043D\u0430\u044F \u043F\u0440\u0430\u043A\u0442\u0438\u043A\u0430\\\u043F\u0440\u0430\u043A\u0442\u0438\u043A\u0430 \u043F\u043E \u0431\u0443\u0434\u0438\u043B\u043E\u0432\u0443\\StroySite.WPF\\contractorspage.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}",
+      "RelativeMoniker": "D:0:0:{DA778BAD-9A73-4E80-9609-919202D8267F}|StroySite.WPF.csproj|solutionrelative:contractorspage.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{DA778BAD-9A73-4E80-9609-919202D8267F}|StroySite.WPF.csproj|C:\\\u043F\u0440\u043E\u0438\u0437\u0432\u043E\u0434\u0441\u0442\u0432\u0435\u043D\u043D\u0430\u044F \u043F\u0440\u0430\u043A\u0442\u0438\u043A\u0430\\\u043F\u0440\u0430\u043A\u0442\u0438\u043A\u0430 \u043F\u043E \u0431\u0443\u0434\u0438\u043B\u043E\u0432\u0443\\StroySite.WPF\\mainwindow.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}",
+      "RelativeMoniker": "D:0:0:{DA778BAD-9A73-4E80-9609-919202D8267F}|StroySite.WPF.csproj|solutionrelative:mainwindow.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{DA778BAD-9A73-4E80-9609-919202D8267F}|StroySite.WPF.csproj|C:\\\u043F\u0440\u043E\u0438\u0437\u0432\u043E\u0434\u0441\u0442\u0432\u0435\u043D\u043D\u0430\u044F \u043F\u0440\u0430\u043A\u0442\u0438\u043A\u0430\\\u043F\u0440\u0430\u043A\u0442\u0438\u043A\u0430 \u043F\u043E \u0431\u0443\u0434\u0438\u043B\u043E\u0432\u0443\\StroySite.WPF\\dbcontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{DA778BAD-9A73-4E80-9609-919202D8267F}|StroySite.WPF.csproj|solutionrelative:dbcontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{DA778BAD-9A73-4E80-9609-919202D8267F}|StroySite.WPF.csproj|C:\\\u043F\u0440\u043E\u0438\u0437\u0432\u043E\u0434\u0441\u0442\u0432\u0435\u043D\u043D\u0430\u044F \u043F\u0440\u0430\u043A\u0442\u0438\u043A\u0430\\\u043F\u0440\u0430\u043A\u0442\u0438\u043A\u0430 \u043F\u043E \u0431\u0443\u0434\u0438\u043B\u043E\u0432\u0443\\StroySite.WPF\\appdbcontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{DA778BAD-9A73-4E80-9609-919202D8267F}|StroySite.WPF.csproj|solutionrelative:appdbcontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{DA778BAD-9A73-4E80-9609-919202D8267F}|StroySite.WPF.csproj|C:\\\u043F\u0440\u043E\u0438\u0437\u0432\u043E\u0434\u0441\u0442\u0432\u0435\u043D\u043D\u0430\u044F \u043F\u0440\u0430\u043A\u0442\u0438\u043A\u0430\\\u043F\u0440\u0430\u043A\u0442\u0438\u043A\u0430 \u043F\u043E \u0431\u0443\u0434\u0438\u043B\u043E\u0432\u0443\\StroySite.WPF\\models\\contractorstype.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{DA778BAD-9A73-4E80-9609-919202D8267F}|StroySite.WPF.csproj|solutionrelative:models\\contractorstype.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{DA778BAD-9A73-4E80-9609-919202D8267F}|StroySite.WPF.csproj|C:\\\u043F\u0440\u043E\u0438\u0437\u0432\u043E\u0434\u0441\u0442\u0432\u0435\u043D\u043D\u0430\u044F \u043F\u0440\u0430\u043A\u0442\u0438\u043A\u0430\\\u043F\u0440\u0430\u043A\u0442\u0438\u043A\u0430 \u043F\u043E \u0431\u0443\u0434\u0438\u043B\u043E\u0432\u0443\\StroySite.WPF\\contractorspage.xaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{DA778BAD-9A73-4E80-9609-919202D8267F}|StroySite.WPF.csproj|solutionrelative:contractorspage.xaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{DA778BAD-9A73-4E80-9609-919202D8267F}|StroySite.WPF.csproj|C:\\\u043F\u0440\u043E\u0438\u0437\u0432\u043E\u0434\u0441\u0442\u0432\u0435\u043D\u043D\u0430\u044F \u043F\u0440\u0430\u043A\u0442\u0438\u043A\u0430\\\u043F\u0440\u0430\u043A\u0442\u0438\u043A\u0430 \u043F\u043E \u0431\u0443\u0434\u0438\u043B\u043E\u0432\u0443\\StroySite.WPF\\addeditpage.xaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{DA778BAD-9A73-4E80-9609-919202D8267F}|StroySite.WPF.csproj|solutionrelative:addeditpage.xaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 4,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "AddEditPage.xaml.cs",
+              "DocumentMoniker": "C:\\\u043F\u0440\u043E\u0438\u0437\u0432\u043E\u0434\u0441\u0442\u0432\u0435\u043D\u043D\u0430\u044F \u043F\u0440\u0430\u043A\u0442\u0438\u043A\u0430\\\u043F\u0440\u0430\u043A\u0442\u0438\u043A\u0430 \u043F\u043E \u0431\u0443\u0434\u0438\u043B\u043E\u0432\u0443\\StroySite.WPF\\AddEditPage.xaml.cs",
+              "RelativeDocumentMoniker": "AddEditPage.xaml.cs",
+              "ToolTip": "C:\\\u043F\u0440\u043E\u0438\u0437\u0432\u043E\u0434\u0441\u0442\u0432\u0435\u043D\u043D\u0430\u044F \u043F\u0440\u0430\u043A\u0442\u0438\u043A\u0430\\\u043F\u0440\u0430\u043A\u0442\u0438\u043A\u0430 \u043F\u043E \u0431\u0443\u0434\u0438\u043B\u043E\u0432\u0443\\StroySite.WPF\\AddEditPage.xaml.cs",
+              "RelativeToolTip": "AddEditPage.xaml.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAEQAAAANAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-03-13T00:25:15.838Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "ContractorsPage.xaml.cs",
+              "DocumentMoniker": "C:\\\u043F\u0440\u043E\u0438\u0437\u0432\u043E\u0434\u0441\u0442\u0432\u0435\u043D\u043D\u0430\u044F \u043F\u0440\u0430\u043A\u0442\u0438\u043A\u0430\\\u043F\u0440\u0430\u043A\u0442\u0438\u043A\u0430 \u043F\u043E \u0431\u0443\u0434\u0438\u043B\u043E\u0432\u0443\\StroySite.WPF\\ContractorsPage.xaml.cs",
+              "RelativeDocumentMoniker": "ContractorsPage.xaml.cs",
+              "ToolTip": "C:\\\u043F\u0440\u043E\u0438\u0437\u0432\u043E\u0434\u0441\u0442\u0432\u0435\u043D\u043D\u0430\u044F \u043F\u0440\u0430\u043A\u0442\u0438\u043A\u0430\\\u043F\u0440\u0430\u043A\u0442\u0438\u043A\u0430 \u043F\u043E \u0431\u0443\u0434\u0438\u043B\u043E\u0432\u0443\\StroySite.WPF\\ContractorsPage.xaml.cs",
+              "RelativeToolTip": "ContractorsPage.xaml.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAFoAAAAnAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-03-12T23:45:36.882Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "MainWindow.xaml",
+              "DocumentMoniker": "C:\\\u043F\u0440\u043E\u0438\u0437\u0432\u043E\u0434\u0441\u0442\u0432\u0435\u043D\u043D\u0430\u044F \u043F\u0440\u0430\u043A\u0442\u0438\u043A\u0430\\\u043F\u0440\u0430\u043A\u0442\u0438\u043A\u0430 \u043F\u043E \u0431\u0443\u0434\u0438\u043B\u043E\u0432\u0443\\StroySite.WPF\\MainWindow.xaml",
+              "RelativeDocumentMoniker": "MainWindow.xaml",
+              "ToolTip": "C:\\\u043F\u0440\u043E\u0438\u0437\u0432\u043E\u0434\u0441\u0442\u0432\u0435\u043D\u043D\u0430\u044F \u043F\u0440\u0430\u043A\u0442\u0438\u043A\u0430\\\u043F\u0440\u0430\u043A\u0442\u0438\u043A\u0430 \u043F\u043E \u0431\u0443\u0434\u0438\u043B\u043E\u0432\u0443\\StroySite.WPF\\MainWindow.xaml",
+              "RelativeToolTip": "MainWindow.xaml",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003549|",
+              "WhenOpened": "2026-03-12T23:43:59.175Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "ContractorsPage.xaml",
+              "DocumentMoniker": "C:\\\u043F\u0440\u043E\u0438\u0437\u0432\u043E\u0434\u0441\u0442\u0432\u0435\u043D\u043D\u0430\u044F \u043F\u0440\u0430\u043A\u0442\u0438\u043A\u0430\\\u043F\u0440\u0430\u043A\u0442\u0438\u043A\u0430 \u043F\u043E \u0431\u0443\u0434\u0438\u043B\u043E\u0432\u0443\\StroySite.WPF\\ContractorsPage.xaml",
+              "RelativeDocumentMoniker": "ContractorsPage.xaml",
+              "ToolTip": "C:\\\u043F\u0440\u043E\u0438\u0437\u0432\u043E\u0434\u0441\u0442\u0432\u0435\u043D\u043D\u0430\u044F \u043F\u0440\u0430\u043A\u0442\u0438\u043A\u0430\\\u043F\u0440\u0430\u043A\u0442\u0438\u043A\u0430 \u043F\u043E \u0431\u0443\u0434\u0438\u043B\u043E\u0432\u0443\\StroySite.WPF\\ContractorsPage.xaml",
+              "RelativeToolTip": "ContractorsPage.xaml",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003549|",
+              "WhenOpened": "2026-03-12T23:45:09.982Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "MainWindow.xaml.cs",
+              "DocumentMoniker": "C:\\\u043F\u0440\u043E\u0438\u0437\u0432\u043E\u0434\u0441\u0442\u0432\u0435\u043D\u043D\u0430\u044F \u043F\u0440\u0430\u043A\u0442\u0438\u043A\u0430\\\u043F\u0440\u0430\u043A\u0442\u0438\u043A\u0430 \u043F\u043E \u0431\u0443\u0434\u0438\u043B\u043E\u0432\u0443\\StroySite.WPF\\MainWindow.xaml.cs",
+              "RelativeDocumentMoniker": "MainWindow.xaml.cs",
+              "ToolTip": "C:\\\u043F\u0440\u043E\u0438\u0437\u0432\u043E\u0434\u0441\u0442\u0432\u0435\u043D\u043D\u0430\u044F \u043F\u0440\u0430\u043A\u0442\u0438\u043A\u0430\\\u043F\u0440\u0430\u043A\u0442\u0438\u043A\u0430 \u043F\u043E \u0431\u0443\u0434\u0438\u043B\u043E\u0432\u0443\\StroySite.WPF\\MainWindow.xaml.cs",
+              "RelativeToolTip": "MainWindow.xaml.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA4AAAAsAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-03-12T23:43:58.366Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "DBContext.cs",
+              "DocumentMoniker": "C:\\\u043F\u0440\u043E\u0438\u0437\u0432\u043E\u0434\u0441\u0442\u0432\u0435\u043D\u043D\u0430\u044F \u043F\u0440\u0430\u043A\u0442\u0438\u043A\u0430\\\u043F\u0440\u0430\u043A\u0442\u0438\u043A\u0430 \u043F\u043E \u0431\u0443\u0434\u0438\u043B\u043E\u0432\u0443\\StroySite.WPF\\DBContext.cs",
+              "RelativeDocumentMoniker": "DBContext.cs",
+              "ToolTip": "C:\\\u043F\u0440\u043E\u0438\u0437\u0432\u043E\u0434\u0441\u0442\u0432\u0435\u043D\u043D\u0430\u044F \u043F\u0440\u0430\u043A\u0442\u0438\u043A\u0430\\\u043F\u0440\u0430\u043A\u0442\u0438\u043A\u0430 \u043F\u043E \u0431\u0443\u0434\u0438\u043B\u043E\u0432\u0443\\StroySite.WPF\\DBContext.cs",
+              "RelativeToolTip": "DBContext.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA0AAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-03-12T23:43:31.316Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "AppDbContext.cs",
+              "DocumentMoniker": "C:\\\u043F\u0440\u043E\u0438\u0437\u0432\u043E\u0434\u0441\u0442\u0432\u0435\u043D\u043D\u0430\u044F \u043F\u0440\u0430\u043A\u0442\u0438\u043A\u0430\\\u043F\u0440\u0430\u043A\u0442\u0438\u043A\u0430 \u043F\u043E \u0431\u0443\u0434\u0438\u043B\u043E\u0432\u0443\\StroySite.WPF\\AppDbContext.cs",
+              "RelativeDocumentMoniker": "AppDbContext.cs",
+              "ToolTip": "C:\\\u043F\u0440\u043E\u0438\u0437\u0432\u043E\u0434\u0441\u0442\u0432\u0435\u043D\u043D\u0430\u044F \u043F\u0440\u0430\u043A\u0442\u0438\u043A\u0430\\\u043F\u0440\u0430\u043A\u0442\u0438\u043A\u0430 \u043F\u043E \u0431\u0443\u0434\u0438\u043B\u043E\u0432\u0443\\StroySite.WPF\\AppDbContext.cs",
+              "RelativeToolTip": "AppDbContext.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAB4AAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-03-12T23:42:51.028Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "ContractorsType.cs",
+              "DocumentMoniker": "C:\\\u043F\u0440\u043E\u0438\u0437\u0432\u043E\u0434\u0441\u0442\u0432\u0435\u043D\u043D\u0430\u044F \u043F\u0440\u0430\u043A\u0442\u0438\u043A\u0430\\\u043F\u0440\u0430\u043A\u0442\u0438\u043A\u0430 \u043F\u043E \u0431\u0443\u0434\u0438\u043B\u043E\u0432\u0443\\StroySite.WPF\\Models\\ContractorsType.cs",
+              "RelativeDocumentMoniker": "Models\\ContractorsType.cs",
+              "ToolTip": "C:\\\u043F\u0440\u043E\u0438\u0437\u0432\u043E\u0434\u0441\u0442\u0432\u0435\u043D\u043D\u0430\u044F \u043F\u0440\u0430\u043A\u0442\u0438\u043A\u0430\\\u043F\u0440\u0430\u043A\u0442\u0438\u043A\u0430 \u043F\u043E \u0431\u0443\u0434\u0438\u043B\u043E\u0432\u0443\\StroySite.WPF\\Models\\ContractorsType.cs",
+              "RelativeToolTip": "Models\\ContractorsType.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-03-12T23:38:51.662Z"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

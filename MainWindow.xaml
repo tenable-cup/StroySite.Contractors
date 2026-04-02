@@ -1,0 +1,99 @@
+﻿<Window x:Class="StroySite.WPF.MainWindow"
+        xmlns="http://schemas.microsoft.com/winfx/2006/xaml/presentation"
+        xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml"
+        Title="Справочник контрагентов - ООО Стройсити" 
+        Height="600" Width="900"
+        WindowStartupLocation="CenterScreen"
+        WindowStyle="SingleBorderWindow">
+
+    <Grid>
+        <Grid.RowDefinitions>
+            <RowDefinition Height="Auto"/>
+            <!-- Шапка -->
+            <RowDefinition Height="Auto"/>
+            <!-- Кнопка -->
+            <RowDefinition Height="*"/>
+            <!-- Frame для страниц -->
+            <RowDefinition Height="Auto"/>
+            <!-- Нижний колонтитул -->
+        </Grid.RowDefinitions>
+
+        <!-- ========== ШАПКА (HEADER) ========== -->
+        <Border Grid.Row="0" 
+                Background="#2196F3" 
+                CornerRadius="10" 
+                Padding="20" 
+                Margin="20,20,20,10">
+
+            <StackPanel>
+                <TextBlock Text="СПРАВОЧНИК КОНТРАГЕНТОВ" 
+                           FontSize="32" 
+                           FontWeight="Bold" 
+                           Foreground="White"
+                           HorizontalAlignment="Center"/>
+
+                <TextBlock Text="ООО «Стройсити»" 
+                           FontSize="18" 
+                           Foreground="#E3F2FD"
+                           HorizontalAlignment="Center"
+                           Margin="0,5,0,0"/>
+            </StackPanel>
+        </Border>
+
+        <!-- ========== КНОПКА ========== -->
+        <Grid Grid.Row="1" Margin="20,0,20,10">
+            <Button x:Name="btnOpenContractors" 
+                    Content="ОТКРЫТЬ СПРАВОЧНИК" 
+                    Width="250" 
+                    Height="60"
+                    FontSize="18"
+                    FontWeight="Bold"
+                    Click="btnOpenContractors_Click"
+                    HorizontalAlignment="Center"
+                    Background="#4CAF50"
+                    Foreground="White"
+                    BorderThickness="0"
+                    Cursor="Hand">
+
+                <Button.Style>
+                    <Style TargetType="Button">
+                        <Setter Property="Template">
+                            <Setter.Value>
+                                <ControlTemplate TargetType="Button">
+                                    <Border Background="{TemplateBinding Background}"
+                                            CornerRadius="8"
+                                            BorderThickness="0">
+                                        <ContentPresenter HorizontalAlignment="Center"
+                                                        VerticalAlignment="Center"/>
+                                    </Border>
+                                </ControlTemplate>
+                            </Setter.Value>
+                        </Setter>
+                        <Style.Triggers>
+                            <Trigger Property="IsMouseOver" Value="True">
+                                <Setter Property="Background" Value="#45a049"/>
+                            </Trigger>
+                            <Trigger Property="IsPressed" Value="True">
+                                <Setter Property="Background" Value="#3d8b40"/>
+                            </Trigger>
+                        </Style.Triggers>
+                    </Style>
+                </Button.Style>
+            </Button>
+        </Grid>
+
+        <!-- ========== FRAME ДЛЯ СТРАНИЦ ========== -->
+        <Frame x:Name="MainFrame" 
+               Grid.Row="2" 
+               Margin="20,0,20,10"
+               NavigationUIVisibility="Hidden"/>
+
+        <!-- ========== НИЖНИЙ КОЛОНТИТУЛ ========== -->
+        <TextBlock Grid.Row="3" 
+                   Text="© 2026 ООО «Стройсити». Все права защищены."
+                   FontSize="11"
+                   Foreground="Gray"
+                   HorizontalAlignment="Center"
+                   Margin="0,0,0,10"/>
+    </Grid>
+</Window>
